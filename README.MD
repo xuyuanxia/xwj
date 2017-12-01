@@ -11,7 +11,7 @@ First name: <input type="text" name="firstname"><br>
 Last name: <input type="text" name="lastname">
 </form>
 
-
+<p><b>注意：</b> 表单本身是不可见的。并且注意一个文本字段的默认宽度是20个字符。</p>
 
 </body>
 </html>
